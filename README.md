@@ -4,7 +4,7 @@
 
 
 
-- :computer: What I've learned so far:
+- :computer: I've learned so far:
   - JavaScript
   - ReactJS
   - NextJS
