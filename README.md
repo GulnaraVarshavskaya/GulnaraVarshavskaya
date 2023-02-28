@@ -4,7 +4,7 @@
 
 
 
-- 🔭 What I've learned so far:
+- :computer: What I've learned so far:
   - JavaScript
   - ReactJS
   - NextJS
@@ -12,7 +12,7 @@
   - TypeScript
   - HTML, CSS
 - 🌱 I’m currently improving my knowledge and skills
-- 👯 Looking for a long-term career in IT in a company where I can develop my skills
+- 🔭 Looking for a long-term career in IT in a company where I can develop my skills
 - 📫 How to reach me:
   - vgn17@icloud.com
   - https://www.linkedin.com/in/gulnara-varshavskaia-53abb5181/
