@@ -1,6 +1,6 @@
 ### Hi there! I'm Gulnara 👩🏻‍💻
 
- I'm a frontend developer and UX/UI Designer with a passion for creating pixel-perfect code.
+ I'm a frontend developer and UX/UI Designer with a passion to create pixel-perfect UI.
 
 
 
