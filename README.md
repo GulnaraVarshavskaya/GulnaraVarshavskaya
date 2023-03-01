@@ -18,7 +18,7 @@
   - https://www.linkedin.com/in/gulnara-varshavskaia-53abb5181/
 - ⚡ Things I love:
   - Cats (I have two :cat: :cat:)
-  - Sing
+  - Singing
   - Travel
   - Kickboxing
   - Play board games
